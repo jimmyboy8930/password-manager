@@ -11,6 +11,8 @@ This project is a simple password manager built with Python and SQLite. It allow
 
 The Python code is using a SQL Database.
 
+- Work in progress some of the features that once worked, no longer work, especially if I'm going to encrypt everything. But everything conceptually works, just don't store your passwords here yet.
+
 ---
 
 ## Features
