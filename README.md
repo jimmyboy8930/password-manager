@@ -9,6 +9,8 @@
 
 This project is a simple password manager built with Python and SQLite. It allows you to securely store and manage passwords, organized by categories. The password data is stored locally in an SQLite database. The manager includes functionalities for adding, retrieving, and deleting passwords and categories.
 
+The Python code is using a SQL Database.
+
 ---
 
 ## Features
